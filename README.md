@@ -5,9 +5,7 @@ Data Description:
 The dataset consists of 3276 entries with 10 columns, each representing different chemical properties of water:
 
 pH: pH of the water (0-14).
-
 Hardness: Hardness of the water measured in mg/L.
-
 Solids: Total dissolved solids in water measured in ppm.
 Chloramines: Amount of chloramines in water measured in ppm.
 Sulfate: Amount of sulfate in water measured in mg/L.
