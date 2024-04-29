@@ -27,18 +27,29 @@ Potability: Indicates if the water is potable (1) or not (0).
 Tools and Libraries Used:
 
 Python: Primary programming language.
+
 Pandas & NumPy: For data manipulation and numerical analysis.
+
 Seaborn & Matplotlib: For data visualization.
+
 Plotly: For interactive plots.
+
 Scikit-Learn: For machine learning model building, training, and evaluation.
+
 Exploratory Data Analysis (EDA):
 
 Statistical summary and data type inspection.
+
 Visualization of distributions and relationships between features.
+
 Analysis of missing values and imputation where necessary.
+
 Predictive Modeling:
 
 Splitting data into training and testing sets.
+
 Feature scaling to normalize data.
+
 Training multiple models including Logistic Regression, Random Forest, SVM, Gradient Boosting, and Neural Networks.
+
 Evaluation of models based on accuracy, precision, recall, F1-score, and ROC AUC
